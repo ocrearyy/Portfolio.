@@ -32,8 +32,8 @@ div.innerHTML = ` <div class="container pt-3">
 <div class="row main_row">
 <div class="col-6  d-flex flex-column align-content-start flex-wrap justify-content-center">
 <h2 class="h2 text-white">Hello I'm</h2>
-<h1 class="h1 text-warning">Oshane Design</h1>
-<h2 class="h2 text-white">Full Stack Developer</h2>
+<h1 class="h1 text-warning">Oshane </h1>
+<h2 class="h2 text-white">Software Engineer</h2>
 </div>
 <div class="col-6">
 <img src= "https://github.com/oshanedesign/Simple-Portfolio-Page-/blob/main/images/unnamed.png?raw=true" alt="image of Oshane Design">
