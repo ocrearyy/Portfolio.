@@ -88,7 +88,7 @@ About Me
 </div>
 <div class="col-4">
   <div class="card" style="width: 18rem;">
-    <img class="card-img-top" src="https://raw.githubusercontent.com/oshanedesign/Simple-Portfolio-Page-/6f9732989401594d83c09313dfc61e6c50076fd1/images/FirstDevJobimage.JPG" alt="FirstDevJob Image" style="height: 13rem">
+    <img class="card-img-top" src="https://raw.githubusercontent.com/ocrearyy/Portfolio./images/FirstDevJobimage.JPG" alt="FirstDevJob Image" style="height: 13rem">
     <div class="card-body">
       <h5 class="card-title">FirstDevJob</h5>
       <p class="card-text">A website that provides a roadmap for self taught developer to land their first DevJob. </p>
