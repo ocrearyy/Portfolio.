@@ -68,7 +68,7 @@ About Me
 <div class="row justify-content-center">
 <div class="col-4">
   <div class="card" style="width: 18rem;">
-    <img class="card-img-top" src="https://raw.githubusercontent.com/oshanedesign/Simple-Portfolio-Page-/6f9732989401594d83c09313dfc61e6c50076fd1/images/ScoreKeeper.JPG" alt="Messaging App Image" style="height: 13rem">
+    <img class="card-img-top" src="https://raw.githubusercontent.com/oshanedesign/Simple-Portfolio-Page-/6f9732989401594d83c09313dfc61e6c50076fd1/images/ScoreKeeper.JPG" alt="Score Keeper Image" style="height: 13rem">
     <div class="card-body">
       <h5 class="card-title">Score Keeper</h5>
       <p class="card-text">A simple, quick, online Score Keeper to use instead of trying to find a pen, pencil or paper to keep score. </p>
@@ -78,7 +78,7 @@ About Me
 </div>
 <div class="col-4">
   <div class="card" style="width: 18rem;">
-    <img class="card-img-top" src="https://raw.githubusercontent.com/oshanedesign/Simple-Portfolio-Page-/6f9732989401594d83c09313dfc61e6c50076fd1/images/Pet Store.JPG" alt="Music App Image" style="height: 13rem">
+    <img class="card-img-top" src="https://raw.githubusercontent.com/oshanedesign/Simple-Portfolio-Page-/6f9732989401594d83c09313dfc61e6c50076fd1/images/Pet Store.JPG" alt="Pet Store Image" style="height: 13rem">
     <div class="card-body">
       <h5 class="card-title">Pet Store</h5>
       <p class="card-text">A Pet Store that sells pets and pet care resources to pet lovers.</p>
@@ -88,10 +88,10 @@ About Me
 </div>
 <div class="col-4">
   <div class="card" style="width: 18rem;">
-    <img class="card-img-top" src="https://raw.githubusercontent.com/oshanedesign/Simple-Portfolio-Page-/6f9732989401594d83c09313dfc61e6c50076fd1/images/FirstDevJobimage.JPG" alt="Messaging App Image" style="height: 13rem">
+    <img class="card-img-top" src="https://raw.githubusercontent.com/oshanedesign/Simple-Portfolio-Page-/6f9732989401594d83c09313dfc61e6c50076fd1/images/FirstDevJobimage.JPG" alt="FirstDevJob Image" style="height: 13rem">
     <div class="card-body">
       <h5 class="card-title">FirstDevJob</h5>
-      <p class="card-text">A website that provides a roadmap for selftaught developer to land their first DevJob. </p>
+      <p class="card-text">A website that provides a roadmap for self taught developer to land their first DevJob. </p>
       <a href="#" class="btn btn-primary">See Project</a>
     </div>
   </div>
