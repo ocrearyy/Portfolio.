@@ -106,7 +106,7 @@ About Me
 <h4 class="text-warning"> Social Media</h4>
 <h1 class="m-heading"> Let's be friends</h1>
 <div class="row pt-5">
-<div class="col-3 media_link btn" href= " #">
+<div class="col-3 media_link btn" href= "https://www.linkedin.com/in/ocreary/">
 <div class="row">
   <div class="col-6 d-flex justify-content-start">
   <h3 class="pt-2 m-0 text-white"> Linkedin</h3>
@@ -117,7 +117,7 @@ About Me
 </div>
 
 </div>
-<div class="col-3 media_link btn" href= " #">
+<div class="col-3 media_link btn" href= "https://github.com/ocrearyy">
 <div class="row">
   <div class="col-6 d-flex justify-content-start">
   <h3 class="pt-2 m-0 text-white"> Github</h3>
@@ -128,7 +128,7 @@ About Me
 </div>
 
 </div>
-<div class="col-3 media_link btn" href= " #">
+<div class="col-3 media_link btn" href= "https://www.youtube.com/channel/UCKEzfINidt1ob7xTOwIS_cA">
 <div class="row">
   <div class="col-6 d-flex justify-content-start">
   <h3 class="pt-2 m-0 text-white"> Youtube</h3>
@@ -139,7 +139,7 @@ About Me
 </div>
 
 </div>
-<div class="col-3 media_link btn-warning" href= " #">
+<div class="col-3 media_link btn-warning" href= "orlando.199creary@gmail.com">
 <div class="row">
   <div class="col-6 d-flex justify-content-start">
   <h3 class="pt-2 m-0 text-dark"> Email</h3>
