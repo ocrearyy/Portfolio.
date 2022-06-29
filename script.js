@@ -68,30 +68,30 @@ About Me
 <div class="row justify-content-center">
 <div class="col-4">
   <div class="card" style="width: 18rem;">
-    <img class="card-img-top" src="https://raw.githubusercontent.com/oshanedesign/Simple-Portfolio-Page-/6f9732989401594d83c09313dfc61e6c50076fd1/images/messaging.svg" alt="Messaging App Image" style="height: 13rem">
+    <img class="card-img-top" src="https://raw.githubusercontent.com/oshanedesign/Simple-Portfolio-Page-/6f9732989401594d83c09313dfc61e6c50076fd1/images/ScoreKeeper.JPG" alt="Messaging App Image" style="height: 13rem">
     <div class="card-body">
-      <h5 class="card-title">Messaging Web App</h5>
-      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+      <h5 class="card-title">Score Keeper</h5>
+      <p class="card-text">A simple, quick, online Score Keeper to use instead of trying to find a pen, pencil or paper to keep score. </p>
       <a href="#" class="btn btn-primary">See Project</a>
     </div>
   </div>
 </div>
 <div class="col-4">
   <div class="card" style="width: 18rem;">
-    <img class="card-img-top" src="https://raw.githubusercontent.com/oshanedesign/Simple-Portfolio-Page-/6f9732989401594d83c09313dfc61e6c50076fd1/images/music.svg" alt="Music App Image" style="height: 13rem">
+    <img class="card-img-top" src="https://raw.githubusercontent.com/oshanedesign/Simple-Portfolio-Page-/6f9732989401594d83c09313dfc61e6c50076fd1/images/Pet Store.JPG" alt="Music App Image" style="height: 13rem">
     <div class="card-body">
-      <h5 class="card-title">Music Downloader/Player</h5>
-      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+      <h5 class="card-title">Pet Store</h5>
+      <p class="card-text">A Pet Store that sells pets and pet care resources to pet lovers.</p>
       <a href="#" class="btn btn-primary">See Project</a>
     </div>
   </div>
 </div>
 <div class="col-4">
   <div class="card" style="width: 18rem;">
-    <img class="card-img-top" src="https://raw.githubusercontent.com/oshanedesign/Simple-Portfolio-Page-/6f9732989401594d83c09313dfc61e6c50076fd1/images/web_scraping.svg" alt="Messaging App Image" style="height: 13rem">
+    <img class="card-img-top" src="https://raw.githubusercontent.com/oshanedesign/Simple-Portfolio-Page-/6f9732989401594d83c09313dfc61e6c50076fd1/images/FirstDevJobimage.JPG" alt="Messaging App Image" style="height: 13rem">
     <div class="card-body">
-      <h5 class="card-title">Tik-Tok Video Scraping App</h5>
-      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+      <h5 class="card-title">FirstDevJob</h5>
+      <p class="card-text">A website that provides a roadmap for selftaught developer to land their first DevJob. </p>
       <a href="#" class="btn btn-primary">See Project</a>
     </div>
   </div>
